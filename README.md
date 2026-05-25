@@ -68,10 +68,3 @@ Focus:
 
 # 🌐 Connect With Me
 
----
-
-<div align="center">
-
- "I use Arch btw" 😎
-
-</div>
