@@ -66,9 +66,9 @@ Focus:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkaSka0&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SkaSka0&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -78,7 +78,7 @@ Focus:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkaSka0&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -88,7 +88,7 @@ Focus:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/SkaSka0/SkaSka0/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -98,8 +98,8 @@ Focus:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/m3u8Downloader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=m3u8Downloader&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SkaSka0/m3u8Downloader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkaSka0&repo=m3u8Downloader&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -110,7 +110,7 @@ Focus:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SkaSka0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -123,37 +123,4 @@ Focus:
 > "I use Arch btw" 😎
 
 </div>
-```
 
----
-
-# 📌 Cara Pakai
-
-1. Buat repository dengan nama sama persis seperti username GitHub kamu.
-2. Contoh:
-
-   ```
-   lIlSkaSkaSkalIl/lIlSkaSkaSkalIl
-   ```
-3. Buat file `README.md`
-4. Copy template di atas.
-5. Ganti semua:
-
-   ```
-   YOUR_USERNAME
-   ```
-
-   menjadi username GitHub kamu.
-6. Commit.
-
----
-
-# ✨ Hasil Style
-
-Template ini punya vibe:
-
-* dark aesthetic
-* linux rice vibe
-* anime/programmer style
-* cocok untuk user Arch Linux + Hyprland
-* clean tapi tetap ramai
