@@ -82,8 +82,8 @@ Focus:
 
 <div align="center">
 
-<a href="https://github.com/SkaSka0/m3u8Downloader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkaSka0&repo=m3u8Downloader&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SkaSka0/Telegram-Leecher">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkaSka0&repo=Telegram-Leecher&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
